@@ -1,4 +1,4 @@
-# Useful-Shell-Scripts
+# Shell-Scripts
 
 ## Introduction
 
